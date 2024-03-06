@@ -1,5 +1,14 @@
 
 
-.header-section {
-    padding-top: 15px;
+/* ------------------------------------- body */
+
+body {
+    padding-top: 20px;
+}
+
+
+/* --------------------------------------paragraph align */
+
+p {
+    text-align: center;
 }
