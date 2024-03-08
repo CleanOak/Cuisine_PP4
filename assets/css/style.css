@@ -104,3 +104,13 @@ hr {
     border-radius: 25px;
     background: goldenrod;
   }
+
+  /* --------------------------------- footer */
+
+  footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+  }
+  
