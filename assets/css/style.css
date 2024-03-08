@@ -71,11 +71,16 @@ li img {
 }
 
 .recipe-items {
-    /* display: flex;
-    align-items: center; */
     max-width: 700px;
     margin: auto;
     padding-left: 45px;
+}
+
+.process-container {
+    max-width: 250px;
+    margin: auto;
+    /* padding-left: 45px; */
+    padding: 20px;
 }
 
 hr {
@@ -83,10 +88,12 @@ hr {
 }
 
 /* --------------------------- search bar */
-.search-container input {
-    border-radius: 25px;
-    
+
+.search-border{
+    border-color: brown;
+    border-radius: 25px; 
 }
+
 
 .search-container button {
     padding: 6px;
@@ -95,6 +102,5 @@ hr {
     font-size: 17px;
     border: none;
     border-radius: 25px;
-    cursor: pointer;
-    background-color: goldenrod;
+    background: goldenrod;
   }
