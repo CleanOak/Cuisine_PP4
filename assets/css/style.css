@@ -56,7 +56,7 @@ li {
 li img {
     display: block;
     text-decoration: none;
-    padding: 16px;
+    padding: 18px;
 }
 
 .center-recipe {
@@ -64,4 +64,9 @@ li img {
     text-align: center;
     justify-content: center;
     font-size: 20px;
+}
+
+.recipe-items {
+    display: flex;
+    align-items: center;
 }
