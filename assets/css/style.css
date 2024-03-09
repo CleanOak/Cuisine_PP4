@@ -51,7 +51,7 @@ i {
     width: 100px;
 }
 
-li {
+.recipe-list {
     float: left;
     padding: 2.5px;
 }
@@ -113,4 +113,20 @@ hr {
     min-height: 120px;
     margin: 0;
   }
+
+  footer ul {
+    list-style-type: none;
+  }
+
+  footer i {
+    color: black;
+    
+  }
   
+  .socials {
+    font-size: 20px;
+  }
+
+  .socials i {
+    padding: 15px;
+  }
